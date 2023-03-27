@@ -1,0 +1,15 @@
+C:\BGC\JOgoDaVeLha\JogoAutomatico\bin\Debug\net6.0\JogoAutomatico.exe
+C:\BGC\JOgoDaVeLha\JogoAutomatico\bin\Debug\net6.0\JogoAutomatico.deps.json
+C:\BGC\JOgoDaVeLha\JogoAutomatico\bin\Debug\net6.0\JogoAutomatico.runtimeconfig.json
+C:\BGC\JOgoDaVeLha\JogoAutomatico\bin\Debug\net6.0\JogoAutomatico.dll
+C:\BGC\JOgoDaVeLha\JogoAutomatico\bin\Debug\net6.0\JogoAutomatico.pdb
+C:\BGC\JOgoDaVeLha\JogoAutomatico\obj\Debug\net6.0\JogoAutomatico.csproj.AssemblyReference.cache
+C:\BGC\JOgoDaVeLha\JogoAutomatico\obj\Debug\net6.0\JogoAutomatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\BGC\JOgoDaVeLha\JogoAutomatico\obj\Debug\net6.0\JogoAutomatico.AssemblyInfoInputs.cache
+C:\BGC\JOgoDaVeLha\JogoAutomatico\obj\Debug\net6.0\JogoAutomatico.AssemblyInfo.cs
+C:\BGC\JOgoDaVeLha\JogoAutomatico\obj\Debug\net6.0\JogoAutomatico.csproj.CoreCompileInputs.cache
+C:\BGC\JOgoDaVeLha\JogoAutomatico\obj\Debug\net6.0\JogoAutomatico.dll
+C:\BGC\JOgoDaVeLha\JogoAutomatico\obj\Debug\net6.0\refint\JogoAutomatico.dll
+C:\BGC\JOgoDaVeLha\JogoAutomatico\obj\Debug\net6.0\JogoAutomatico.pdb
+C:\BGC\JOgoDaVeLha\JogoAutomatico\obj\Debug\net6.0\JogoAutomatico.genruntimeconfig.cache
+C:\BGC\JOgoDaVeLha\JogoAutomatico\obj\Debug\net6.0\ref\JogoAutomatico.dll
